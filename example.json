@@ -1,0 +1,7 @@
+{
+    "name": "Alice",
+    "age": 30,
+    "city": "Wonderland",
+    "is_student": false,
+    "grades": [90, 85, 88]
+}
